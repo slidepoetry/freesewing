@@ -14,7 +14,7 @@ terrycloth, yet still have the entire cotton selection of your local fabric stor
 as your choice for the front layer, aka the visible one.
 
 </Note>
-
+testest 
 ## Step 1: Optional: Join layers
 
 If you decide to go for two layers, simply join them together at the edges before applying
