@@ -77,7 +77,7 @@ If freehanding without having fully basted the edge, be extra careful to ensure 
 You should now have an edge with the bias tape sewn to one side, and the centre fold of the bias tape unfolded inwards towards the middle of the garment.
 
 #### Sew the front
-Refold the rightmost fold of the bias tape, flipping the rest of the bias tape outwards, and turn your garment right side up. The original centre fold of the bias tape should now be encasing the raw edge of your fabric, with the front side of the bias tape unsewn and resting against the front of your garment. The front fold of the bias tape should be folded in, so no raw edges of the bias tape are showing. If desired, you can baste down the front side of the bias tape, but it generally behaves well enough without this, since it's held in place by the stitches on the back.
+Turn the garment right side up. Refold the bias tape to encase the raw edge of your fabric, with the front side of the bias tape unsewn and resting against the front of your garment. The front fold of the bias tape should be folded in, so no raw edges of the bias tape are showing. If desired, you can baste down the front side of the bias tape, but it generally behaves well enough without this, since it's held in place by the stitches on the back.
 
 Begin to topstitch the bias tape, starting 1-2 cm past where the ends overlap. The overlap will be stitched last. Stitch close to the inside (away from the edge of the garment), ideally leaving a 2-3 mm space between the stitching and the folded edge of the bias tape. As you do so, this should cover up the stitches visible from where we attached the back of the bias tape.
 
