@@ -17,14 +17,12 @@ as your choice for the front layer, aka the visible one.
  
 ## Step 1: Optional: Join layers
 
-If you decide to go for two layers, simply join them together at the edges before applying
-the bias tape.
-
-You probably want to pin or bast this prior to sewing. The two different types of fabric
+If you decide to go for two layers, you probably want to pin or baste this prior to sewing. The two different types of fabric
 will behave differently, so secure them in place prior to sewing the together.
 
-Make sure to sew close to the edge so that the stitches will be under the bias tape
-finish later.
+After pinning or basting, sew the two layers together with a basic straight stitch. Ensure that your stitches are close enough to the edge of the fabric that they will be hidden by the bias tape. For example, if your bias tape is 10 mm wide when folded, stitch 5mm away from the edge of the fabric.
+
+Also make sure that your stitches are catching both layers of fabric all the way around. When working with different types of fabric, it's easy for one piece to slip and the edges to become slightly misaligned, even if basted or pinned.
 
 
 ## Step 2: Apply bias tape
